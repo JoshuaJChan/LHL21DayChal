@@ -1,1 +1,2 @@
-Solutions to the LighthouseLabs 21 Day Challenge
+=== Solutions to the LighthouseLabs 21 Day Challenge ===
+
